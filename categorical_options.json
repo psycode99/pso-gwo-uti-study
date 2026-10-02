@@ -1,0 +1,88 @@
+{
+  "abx": [
+    "No",
+    "Yes"
+  ],
+  "ua_wbc": [
+    "large",
+    "moderate",
+    "negative",
+    "not_reported",
+    "other",
+    "small"
+  ],
+  "ua_leuk": [
+    "large",
+    "moderate",
+    "negative",
+    "not_reported",
+    "other",
+    "small"
+  ],
+  "ua_bacteria": [
+    "few",
+    "many",
+    "marked",
+    "moderate",
+    "none",
+    "not_reported"
+  ],
+  "ua_nitrite": [
+    "negative",
+    "not_reported",
+    "other",
+    "positive"
+  ],
+  "ua_blood": [
+    "large",
+    "moderate",
+    "negative",
+    "not_reported",
+    "other",
+    "small"
+  ],
+  "ANTIARTHRITICS": [
+    "No",
+    "Yes"
+  ],
+  "Anion_Gap": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "not_reported"
+  ],
+  "ua_rbc": [
+    "large",
+    "moderate",
+    "negative",
+    "not_reported",
+    "other",
+    "small"
+  ],
+  "ua_protein": [
+    "large",
+    "moderate",
+    "negative",
+    "not_reported",
+    "other",
+    "small"
+  ],
+  "RDW": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "not_reported"
+  ],
+  "ANTIBIOTICS": [
+    "No",
+    "Yes"
+  ],
+  "ANALGESICS": [
+    "No",
+    "Yes"
+  ]
+}
